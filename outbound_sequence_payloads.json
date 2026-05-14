@@ -1,0 +1,18 @@
+{
+  "perfect_lead": {
+    "name": "John Smith",
+    "email": "john@techco.com",
+    "company": "TechCo",
+    "industry": "SaaS",
+    "employees": 150,
+    "title": "VP of Sales"
+  },
+  "not_my_lead": {
+    "name": "Jane Doe",
+    "email": "jane@retailco.com",
+    "company": "Retail Co",
+    "industry": "Retail",
+    "employees": 20,
+    "title": "Store Manager"
+  }
+}
